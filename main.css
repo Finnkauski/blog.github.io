@@ -22,7 +22,7 @@
 }
 
 .fixed-bg {
-    background-image: url('.backgrounds/wallpaper3.jpg');
+    background-image: url('backgrounds/wallpaper3.jpg');
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
